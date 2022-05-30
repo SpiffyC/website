@@ -1,0 +1,30 @@
+body {
+	background-image: url("brick wall.jpg");
+	font-family: fantasy;
+	font: chalkduster;
+	color: white;
+	font-weight:normal;
+	font-style:italic;
+	line-height:normal;
+}
+
+h2 {
+	text-align:center;
+}
+
+square {
+  height: 99%;
+  width: 75%;
+  background-color: brown;
+}
+section {
+  margin-top: 1%;
+  margin-bottom: 10%;
+  margin-right: 10%;
+  margin-left: 20%;
+  background-color: black;
+}
+
+a:hover {
+	color: white;
+}
